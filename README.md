@@ -34,7 +34,7 @@ Donc faire revenir le patient.
 
 ## Choix de la formule
 - de 22.5 à 24.5 mm (70% de la population) Toutes formules
-- >24.5 mm (20% de la population) : SRK-T
+- \>24.5 mm (20% de la population) : SRK-T
 - <22.5 mm (8% de la population) : HofferQ. Holladay
 
 Regardez les différentes formules et voir s'il y a changement de la valeur de l'implant.
